@@ -1,0 +1,30 @@
+{
+  "name": "motd-trogdor",
+  "description": "Sets up the login message of the day to display Trogdor, the burninator",
+  "long_description": "Sets up the login message of the day to display Trogdor, the burninator",
+  "maintainer": "Branden Faulls",
+  "maintainer_email": "chef-motd-trogdor@clockworkrobot.co.uk",
+  "license": "MIT",
+  "platforms": {
+  },
+  "dependencies": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+    "motd_trogdor": "Display Trogdor in the motd"
+  },
+  "version": "0.1.0"
+}
